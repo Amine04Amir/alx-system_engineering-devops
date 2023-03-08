@@ -1,2 +1,2 @@
 #!/bin/bash
-mv [[:uppercase:]]* /temp/u
+mv [[:upper:]]* /temp/u
