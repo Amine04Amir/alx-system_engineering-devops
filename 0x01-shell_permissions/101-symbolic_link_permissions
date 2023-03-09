@@ -1,0 +1,2 @@
+#!/bin/bash
+shown -h vincent:staff-hello
