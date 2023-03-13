@@ -1,2 +1,2 @@
 #!/bin/bash 
-output < /etc/passwd
+ls > /etc/passwd
